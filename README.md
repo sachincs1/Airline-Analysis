@@ -29,9 +29,3 @@ Power BI | Excel | DAX
 
 ![Dashboard Preview](images/airline.png)
 
----
-title: "CopBot - AI Legal Assistant"
-author: "Sachin C (Data Analyst & CSE Student, Anna University RC Tirunelveli)"
-date: "Aug 2025"
-output: github_document
----
