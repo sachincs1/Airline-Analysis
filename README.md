@@ -2,7 +2,6 @@
 title: "Airline Analysis Dashboard"
 author: "Sachin"
 date: "Aug 2025"
-output: github_document
 ---
 
 # ✈️ Airline Analysis Dashboard  
